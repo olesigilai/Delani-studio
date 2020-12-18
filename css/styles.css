@@ -26,3 +26,8 @@
     color: black;
     text-align: center;
   }
+  .service{
+      background-image: url("/images/background/2.jpg");
+      text-align: center;
+      color: white;
+  }
