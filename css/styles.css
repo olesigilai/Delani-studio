@@ -18,6 +18,11 @@
 .mouse{
  
     text-align: center;
-    /* margin-top:18rem" */
+    
 
+  }
+  .about{
+    background-color: white;
+    color: black;
+    text-align: center;
   }
