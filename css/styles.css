@@ -1,0 +1,23 @@
+#body1 {
+  background-image: url("/images/background/1.jpg");
+  background-repeat: no-repeat;
+  background-position: fixed;
+  background-size: cover;
+  
+  
+}
+.logo{
+    color: white;
+  font-size: 12px;
+  text-align: center;
+  height: 40rem;
+  width: 100%;
+  padding-top: 13rem;
+  padding-left: 5rem;
+}
+.mouse{
+ 
+    text-align: center;
+    /* margin-top:18rem" */
+
+  }
