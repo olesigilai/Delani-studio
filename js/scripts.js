@@ -11,8 +11,14 @@ $('.main').hover(function(){
     });
 });
 $(document).ready(function() {
-    $(".col-sm").click(function() {
-      $(".hide").toggle();
-    //   $(".hide").();
+    $(".click1").click(function() {
+      $(".hide1").toggle();
+      
     });
+    $(".click2").click(function() {
+        $(".hide2").toggle();
   });
+  $(".click3").click(function() {
+    $(".hide3").toggle();
+});
+});
