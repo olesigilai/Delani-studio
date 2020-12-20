@@ -1,19 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Langar&family=Rubik:wght@500&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Langar&family=Rubik:wght@500&display=swap");
 .container-fluid {
   background-image: url("/images/background/1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  /* padding-bottom: 20rem;
-  padding-right: 10%; */
-  
-  
 }
-body{
+body {
   overflow-x: hidden;
 }
-  h1{
-text-align: center;
-  }
+h1 {
+  text-align: center;
+}
 .logo {
   color: white;
   font-size: 12px;
@@ -21,11 +17,8 @@ text-align: center;
   padding-top: 20rem;
   padding-left: 10rem;
 }
-.mouse {
-  text-align: center;
-}
 .about {
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
   background-color: white;
   color: black;
   text-align: center;
@@ -38,17 +31,16 @@ text-align: center;
 .container {
   text-align: center;
 }
-.row{
+.row {
   margin-bottom: 20px;
 }
 
-.col main{
+.col main {
   position: relative;
-
 }
-.second{
+.second {
   display: none;
-  font-family: 'Rubik', sans-serif;
+  font-family: "Rubik", sans-serif;
   position: absolute;
   top: 10px;
   left: 30px;
@@ -57,7 +49,7 @@ text-align: center;
   border: 6px solid white;
   color: white;
   font-weight: bold;
-
 }
-
-
+.hide{
+  display: none;
+}
