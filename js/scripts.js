@@ -10,3 +10,9 @@ $('.main').hover(function(){
           $(".second").hide();
     });
 });
+$(document).ready(function() {
+    $(".col-sm").click(function() {
+      $(".hide").toggle();
+    //   $(".hide").();
+    });
+  });
