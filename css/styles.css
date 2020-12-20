@@ -3,10 +3,17 @@
   background-image: url("/images/background/1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  padding-bottom: 20rem;
-  padding-right: 10%;
+  /* padding-bottom: 20rem;
+  padding-right: 10%; */
+  
   
 }
+body{
+  overflow-x: hidden;
+}
+  h1{
+text-align: center;
+  }
 .logo {
   color: white;
   font-size: 12px;
@@ -37,10 +44,10 @@
 
 .col main{
   position: relative;
-  opacity: 0.5;
+
 }
 .second{
-  /* display: none; */
+  display: none;
   font-family: 'Rubik', sans-serif;
   position: absolute;
   top: 10px;
@@ -52,3 +59,5 @@
   font-weight: bold;
 
 }
+
+
