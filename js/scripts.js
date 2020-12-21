@@ -24,9 +24,4 @@ $(document).ready(function() {
   $(".click3").click(function() {
     $(".hide3").slideToggle();
 });
-$(".Submit").click(function(){
-  $("#text")
-
-    alert("Thank you for submitting your details + ")
-});
 });
