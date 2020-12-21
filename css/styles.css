@@ -64,7 +64,7 @@ h1 {
   display: none;
 }
 .jumbotron{
-  background-image: url("/images/background/3.jpg");
+  background-image: url("../images/background/3.jpg");
   color: white;
 }
 .form-row{
