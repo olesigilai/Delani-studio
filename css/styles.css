@@ -53,3 +53,7 @@ h1 {
 .hide{
   display: none;
 }
+.jumbotron{
+  background-image: url("/images/background/3.jpg");
+  color: white;
+}
