@@ -1,6 +1,9 @@
 $('.main').hover(function(){
     $(".main").hover(function () {
       $(this).children(".second").show();
+      $(".img8").css({
+        opacity:0.6
+    });
     });
 
     $(".main").mouseleave(function(){
