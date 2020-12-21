@@ -15,14 +15,18 @@ $('.main').hover(function(){
 });
 $(document).ready(function() {
     $(".click1").click(function() {
-      $(".hide1").toggle();
+      $(".hide1").slideToggle();
       
     });
     $(".click2").click(function() {
-        $(".hide2").toggle();
+        $(".hide2").slideToggle();
   });
   $(".click3").click(function() {
-    $(".hide3").toggle();
+    $(".hide3").slideToggle();
 });
+$(".Submit").click(function(){
+  $("#text")
 
+    alert("Thank you for submitting your details + ")
+});
 });
