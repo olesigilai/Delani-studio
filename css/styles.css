@@ -57,3 +57,12 @@ h1 {
   background-image: url("/images/background/3.jpg");
   color: white;
 }
+.form-row{
+color: white;
+}
+#text::placeholder{
+  color: white;
+}
+#text{
+  color: white;
+}
