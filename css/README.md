@@ -1,13 +1,13 @@
 #   Delani-studio
-#### A.I created on 11/12/2020.
+#### This project gives a simple description on how Delani studio works. It was created on 21/12/2020.
 ## Author
 Gideon Ole Sigilai
 ## Description of Delani-Studio
-This project 
+This project dipalys how a Delani studio works besides allowing partticipants to chat online.
 ## project Set up Instructions
 * Ctrl + alt + t to open the terminal
-* now git clone https://github.com/olesigilai/Akan-Name.git
-* cd Akan-name 
+* now git clone https://github.com/olesigilai/Delani-studio.git
+* cd Delani-studio 
 * you can use code . or atom . to open it.
 
 ## Known Bugs
@@ -15,10 +15,11 @@ This project
 ## Technologies Used
 * HTML5
 * CSS
-* Github
+* Bootstrap
 * Javascript
 ## Support and contact details
-I would like to give thanks to my TM(s)  Mr. Edgar Kibet and Mr. Raphael Katana for the best guidance during this project implementation.
+I would like to give thanks to my TM(s)  Mr. Edgar Kibet for the best directions he offered during this project implementation.
+Reach me on email: ole_sigilai@yahoo.com
 ### License
 MIT License
 
