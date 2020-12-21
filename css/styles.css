@@ -70,10 +70,22 @@ h1 {
 .form-row{
 color: white;
 }
-#text::placeholder{
+#text3::placeholder{
   color: white;
 }
-#text{
+#text3{
+  color: white;
+}
+#text2::placeholder{
+  color: white;
+}
+#text2{
+  color: white;
+}
+#text1::placeholder{
+  color: white;
+}
+#text1{
   color: white;
 }
 .icons{
