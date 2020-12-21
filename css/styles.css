@@ -27,7 +27,7 @@ h1 {
   background-image: url("../images/background/2.jpg");
   text-align: center;
   color: white;
-  font-size: 13px;
+  font-size: 16px;
   padding-top: 2rem;
   padding-bottom: 2rem;
   font-weight: bold;
@@ -70,10 +70,22 @@ h1 {
 .form-row{
 color: white;
 }
-#text::placeholder{
+#text3::placeholder{
   color: white;
 }
-#text{
+#text3{
+  color: white;
+}
+#text2::placeholder{
+  color: white;
+}
+#text2{
+  color: white;
+}
+#text1::placeholder{
+  color: white;
+}
+#text1{
   color: white;
 }
 .icons{
@@ -81,4 +93,6 @@ color: white;
 }
 footer{
   text-align: center;
+}
+@media screen and (min-width: 480px) {
 }

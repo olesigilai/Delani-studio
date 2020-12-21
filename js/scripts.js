@@ -24,4 +24,23 @@ $(document).ready(function() {
   $(".click3").click(function() {
     $(".hide3").slideToggle();
 });
+$("button").click(function(){
+  var name = document.getElementById("text1").value;
+  var email = document.getElementById("text2").value;
+  var message = document.getElementById("text3").value;
+  if (name===""){
+    alert("enter your name")
+  }
+  else 
+  if(email===""){
+    alert("enter your email")
+  }
+  else
+  if(message===""){
+    alert("type text")
+  }
+  else{
+    alert("Dear " +  " name" + " we have received your message successfully." + " Feel free to reach out to us anytime");
+  }
+});
 });
