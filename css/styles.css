@@ -27,7 +27,7 @@ h1 {
   background-image: url("../images/background/2.jpg");
   text-align: center;
   color: white;
-  font-size: 13px;
+  font-size: 16px;
   padding-top: 2rem;
   padding-bottom: 2rem;
   font-weight: bold;
@@ -93,4 +93,6 @@ color: white;
 }
 footer{
   text-align: center;
+}
+@media screen and (min-width: 480px) {
 }
