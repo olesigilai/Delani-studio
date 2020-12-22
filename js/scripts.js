@@ -40,7 +40,8 @@ $("button").click(function(){
     alert("type text")
   }
   else{
-    alert("Dear " +   name + " we have received your message successfully." + " Feel free to reach out to us anytime");
+    alert("Dear " +   name + " we have received your message successfully." + 
+    " Feel free to reach out to us anytime. Click Ok to continue to the next page");
   }
 });
 });
