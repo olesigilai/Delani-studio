@@ -1,8 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Langar&family=Rubik:wght@500&display=swap");
 .container-fluid {
   background-image: url("../images/background/1.jpg");
+  height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
 }
 body {
   overflow-x: hidden;
@@ -30,7 +32,6 @@ h1 {
   font-size: 16px;
   padding-top: 2rem;
   padding-bottom: 2rem;
-  
 }
 .container {
   text-align: center;
@@ -65,7 +66,11 @@ h1 {
 }
 .jumbotron{
   background-image: url("../images/background/3.jpg");
+  
   color: white;
+}
+html{
+  scroll-behavior: smooth;
 }
 .form-row{
 color: white;
