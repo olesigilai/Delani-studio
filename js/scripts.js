@@ -14,15 +14,23 @@ $('.main').hover(function(){
     });
 });
 $(document).ready(function() {
-    $(".click1").click(function() {
-      $(".hide1").slideToggle();
-      
-    });
-    $(".click2").click(function() {
-        $(".hide2").slideToggle();
+  $(".design1").click(function(){
+    $("#imgDesign").slideToggle();
+    $("#contentDesign").slideToggle();
+  
   });
-  $(".click3").click(function() {
-    $(".hide3").slideToggle();
+
+  $(".design2").click(function(){
+    $("#imgDesign2").slideToggle();
+    $("#contentDesign2").slideToggle();
+  
+  
+  });
+  $(".design3").click(function(){
+    $("#imgDesign3").slideToggle();
+    $("#contentDesign3").slideToggle();
+  
+  
 });
 $("button").click(function(){
   var name = document.getElementById("text1").value;
@@ -44,4 +52,5 @@ $("button").click(function(){
     " Feel free to reach out to us anytime. Click Ok to continue to the next page");
   }
 });
+
 });
